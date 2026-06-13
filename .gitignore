@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+data/raw/
+data/trainingandtestdata.zip
+*.zip
+*.tar.gz
+
+# Logs and outputs
+logs/
+*.log
+outputs/*.pkl
+outputs/*.joblib
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Google Colab
+sample_data/
