@@ -223,9 +223,5 @@ Joakim- [GitHub](https://github.com/joakimtech)
 
 - Snorkel team for the weak supervision framework
 - Stanford University for the Sentiment140 dataset
-```
 
----
-
-
-I will then provide you with a final project summary and any additional instructions you may need.
+## deployment and new features to come soon
