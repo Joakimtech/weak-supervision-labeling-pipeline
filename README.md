@@ -2,7 +2,7 @@
 
 A production-ready weak supervision pipeline that automatically generates training labels for text classification using heuristic labeling functions, without requiring manual annotation.
 
-## Overview
+## Overview.
 
 This project implements a complete weak supervision workflow that combines multiple noisy labeling functions (LFs) into a generative model to produce probabilistic labels for unlabeled text data. The pipeline then trains a discriminative classifier using these labels, demonstrating how domain knowledge can be encoded as imperfect rules to bootstrap model training.
 
